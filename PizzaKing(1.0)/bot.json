@@ -1,0 +1,14 @@
+{
+  "type" : "USER",
+  "trackingId" : "C2692FB3-28E8-41DE-938E-3F31B35DAB7C",
+  "name" : "PizzaKing",
+  "displayName" : "Pizza King",
+  "description" : "Skill for ordering from Pizza King",
+  "version" : "1.0",
+  "intentTrainer" : "Sakura",
+  "autoCompleteTrainingStatus" : "NO_DATA",
+  "requiresAutoCompleteTraining" : false,
+  "platformVersion" : "21.02",
+  "primaryLanguageTag" : "en",
+  "multilingualMode" : "NATIVE"
+}

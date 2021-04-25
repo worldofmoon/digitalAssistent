@@ -1,0 +1,8 @@
+{
+  "invocationName" : "Pizza King",
+  "shortDescription" : "Skill for ordering from Pizza King",
+  "fullDescription" : null,
+  "trackingId" : "57D7C4C5-4606-450A-9163-C6B3037C5EDC",
+  "sampleInvocations" : [ "An example utterance" ],
+  "nativeLanguageTag" : "en"
+}

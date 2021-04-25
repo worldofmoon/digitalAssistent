@@ -1,0 +1,46 @@
+{
+  "name" : "ReasonCancel",
+  "type" : "ENUMVALUES",
+  "enumValues" : [ {
+    "type" : "StaticEntityValue",
+    "trackingId" : "FE0830A3-5576-4151-B65C-A809E91FC197",
+    "canonicalName" : "Expensive",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Expensive",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "8C11BCE4-24D7-4769-8FC4-35B7E18B5E10",
+    "canonicalName" : "Its late",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Its late",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "11413DE1-41DB-44C5-BA99-8A8B885998A7",
+    "canonicalName" : "I need to get out",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "I need to get out",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "8F04AE8E-DB08-44E4-B16F-EAA423794E66",
+    "canonicalName" : "I have ordered wrong",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "I have ordered wrong",
+    "nativeLanguageTag" : "en"
+  } ],
+  "multiValue" : false,
+  "fuzzyMatch" : false,
+  "promptForDisambiguation" : true,
+  "botPrompts" : [ {
+    "text" : "Please enter ReasonCancel",
+    "sequenceNr" : null
+  } ],
+  "validationRules" : [ ],
+  "trackingId" : "C6E3F569-AA2B-4C5D-895B-571BBB010E8E"
+}

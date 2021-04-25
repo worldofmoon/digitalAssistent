@@ -1,0 +1,46 @@
+{
+  "name" : "PizzaTopping",
+  "type" : "ENUMVALUES",
+  "enumValues" : [ {
+    "type" : "StaticEntityValue",
+    "trackingId" : "4BB7E1E4-F43C-4AC3-A62D-8B9ABC76492C",
+    "canonicalName" : "Meaty",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Meaty",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "E2C99DF9-5D11-4A18-9655-ECD31BF142D7",
+    "canonicalName" : "Veggie",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Veggie",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "F4EE9079-3AD9-468B-BD59-0FDCC1A1B671",
+    "canonicalName" : "Hot and Spicy",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Hot and Spicy",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "43F33CF5-523E-4A69-8298-EA11FE4B970D",
+    "canonicalName" : "American Hot",
+    "synonyms" : null,
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "American Hot",
+    "nativeLanguageTag" : "en"
+  } ],
+  "multiValue" : false,
+  "fuzzyMatch" : false,
+  "promptForDisambiguation" : true,
+  "botPrompts" : [ {
+    "text" : "Please enter PizzaTopping",
+    "sequenceNr" : null
+  } ],
+  "validationRules" : [ ],
+  "trackingId" : "92043FBA-B06B-48AE-97B7-E27354A24692"
+}

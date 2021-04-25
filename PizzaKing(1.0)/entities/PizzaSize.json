@@ -1,0 +1,38 @@
+{
+  "name" : "PizzaSize",
+  "type" : "ENUMVALUES",
+  "enumValues" : [ {
+    "type" : "StaticEntityValue",
+    "trackingId" : "20996492-D824-40D9-A5FD-D229C6725398",
+    "canonicalName" : "Small",
+    "synonyms" : [ "Personal", "Smallest" ],
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Small",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "1D5D53B8-0586-45DA-8852-7EEF5E6E48EE",
+    "canonicalName" : "Medium",
+    "synonyms" : [ "middle" ],
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Medium",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "8394C154-963D-4C68-A336-62148DB52DD2",
+    "canonicalName" : "Large",
+    "synonyms" : [ "Big", "grande", "biggest" ],
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Large",
+    "nativeLanguageTag" : "en"
+  } ],
+  "multiValue" : false,
+  "fuzzyMatch" : false,
+  "promptForDisambiguation" : true,
+  "botPrompts" : [ {
+    "text" : "Please enter PizzaSize",
+    "sequenceNr" : null
+  } ],
+  "validationRules" : [ ],
+  "trackingId" : "867F8B75-A793-4E9C-B335-2E0722A3FECF"
+}

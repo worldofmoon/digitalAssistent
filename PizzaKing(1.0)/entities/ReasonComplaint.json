@@ -1,0 +1,38 @@
+{
+  "name" : "ReasonComplaint",
+  "type" : "ENUMVALUES",
+  "enumValues" : [ {
+    "type" : "StaticEntityValue",
+    "trackingId" : "4BDA4D28-7E26-4949-8595-108B252F7E0A",
+    "canonicalName" : "Its cold",
+    "synonyms" : [ "cold", "frozen" ],
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Its cold",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "B332336E-2A1D-49DC-A484-A7AA139AD91D",
+    "canonicalName" : "Wrong",
+    "synonyms" : [ "Flavor wrong", "Size Wrong", "Type wrong" ],
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Wrong",
+    "nativeLanguageTag" : "en"
+  }, {
+    "type" : "StaticEntityValue",
+    "trackingId" : "25E86999-7EC8-4947-876F-8BA205D3C6AF",
+    "canonicalName" : "Time",
+    "synonyms" : [ "time wrong", "its late" ],
+    "extensionType" : null,
+    "primaryLanguageCanonicalName" : "Time",
+    "nativeLanguageTag" : "en"
+  } ],
+  "multiValue" : false,
+  "fuzzyMatch" : false,
+  "promptForDisambiguation" : true,
+  "botPrompts" : [ {
+    "text" : "Please enter ReasonComplaint",
+    "sequenceNr" : null
+  } ],
+  "validationRules" : [ ],
+  "trackingId" : "7D235DE1-99AA-4155-9CD3-E7DCA183BB2F"
+}
